@@ -1,0 +1,4 @@
+multiboot-kit/tmp/
+multiboot-kit/tools/ventoy/
+multiboot-kit/iso-manifest.sha256
+multiboot-kit/isos/*.iso
