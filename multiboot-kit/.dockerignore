@@ -1,0 +1,5 @@
+.git
+tmp
+tools/ventoy
+isos/*.iso
+iso-manifest.sha256
